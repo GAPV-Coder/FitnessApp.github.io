@@ -1,0 +1,27 @@
+{
+  "name": "fitnessapp",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.9.3",
+    "@emotion/styled": "^11.9.3",
+    "@mui/icons-material": "^5.8.4",
+    "@mui/material": "^5.8.5",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-horizontal-scrolling-menu": "^3.1.0",
+    "react-loader-spinner": "^5.1.5",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "^5.0.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.7",
+    "react-error-overlay": "^6.0.9",
+    "vite": "^2.8.0"
+  }
+}
